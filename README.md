@@ -1,6 +1,6 @@
 <table style="width:100%;">
 	<tbody>
-		<tr>
+		<tr style="vertical-align:top;">
 			<td>
 				<ul>
 					<li>👋 Hi, I’m @nlc0d3r</li>
