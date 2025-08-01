@@ -1,5 +1,5 @@
 <table width="100%">
-	<tr><td></td><td>Front-end</td><td>Back-end</td></tr>
+	<tr><td></td><td>Front-end</td><td>Back-end</td><td>CMS</td><td>Frameworks</td></tr>
 	<tr valign="top">
 		<td>
 			<ul>
@@ -23,6 +23,22 @@
 			<ul>
 				<li>PHP</li>
 				<li>Python</li>
+			</ul>
+		</td>
+		<td>
+			<ul>
+				<li>Drupal</li>
+				<li>WordPress</li>
+				<li>Yoomla</li>
+				<li>PimCore</li>
+			</ul>
+		</td>
+		<td>
+			<ul>
+				<li>Laravel</li>
+				<li>Symfony</li>
+				<li>Yii</li>
+				<li>CodeIgniter</li>
 			</ul>
 		</td>
 	</tr>
