@@ -10,6 +10,7 @@
 			</ul>
 		</td>
 		<td>
+			<h3>Front-end</h3>
 			<ul>
 				<li>HTML</li>
 				<li>CSS</li>
@@ -19,6 +20,7 @@
 			</ul>
 		</td>
 		<td>
+			<h3>Back-end</h3>
 			<ul>
 				<li>PHP</li>
 				<li>Python</li>
