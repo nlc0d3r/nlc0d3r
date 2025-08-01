@@ -1,4 +1,5 @@
-<table width="100%">
+<table width="100%">\
+	<tr><td></td><td>Front-end</td><td>Back-end</td></tr>
 	<tr valign="top">
 		<td>
 			<ul>
@@ -10,7 +11,6 @@
 			</ul>
 		</td>
 		<td>
-			<h4>Front-end</h4>
 			<ul>
 				<li>HTML</li>
 				<li>CSS</li>
@@ -20,7 +20,6 @@
 			</ul>
 		</td>
 		<td>
-			<h4>Back-end</h4>
 			<ul>
 				<li>PHP</li>
 				<li>Python</li>
