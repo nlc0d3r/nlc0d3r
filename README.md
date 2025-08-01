@@ -1,4 +1,4 @@
-<table width="100%">\
+<table width="100%">
 	<tr><td></td><td>Front-end</td><td>Back-end</td></tr>
 	<tr valign="top">
 		<td>
