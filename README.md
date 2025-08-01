@@ -4,14 +4,14 @@
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me? I like to stay unreachable.
 
-# Frontend
+## Frontend
 - HTML
 - CSS
 - JavaScript
 - jQuery
 - Bootstrap
 
-# Backend
+## Backend
 - PHP
 - Python
 
